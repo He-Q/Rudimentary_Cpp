@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\Using_the_conditional_operator_with_output\Debug\Using_the_conditional_operator_with_output.exe
+C:\DEv\Rudimentary_Cpp\Using_the_conditional_operator_with_output\Debug\Using_the_conditional_operator_with_output.pdb

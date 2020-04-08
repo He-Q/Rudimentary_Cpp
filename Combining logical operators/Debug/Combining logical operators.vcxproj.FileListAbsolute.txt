@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\Combining logical operators\Debug\Combining logical operators.exe
+C:\DEv\Rudimentary_Cpp\Combining logical operators\Debug\Combining logical operators.pdb
