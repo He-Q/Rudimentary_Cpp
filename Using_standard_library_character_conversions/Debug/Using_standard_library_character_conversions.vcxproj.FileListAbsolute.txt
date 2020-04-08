@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\Using_standard_library_character_conversions\Debug\Using_standard_library_character_conversions.exe
+C:\DEv\Rudimentary_Cpp\Using_standard_library_character_conversions\Debug\Using_standard_library_character_conversions.pdb
