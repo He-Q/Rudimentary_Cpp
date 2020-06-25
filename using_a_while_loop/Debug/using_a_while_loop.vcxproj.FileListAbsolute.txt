@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\using_a_while_loop\Debug\using_a_while_loop.exe
+C:\DEv\Rudimentary_Cpp\using_a_while_loop\Debug\using_a_while_loop.pdb

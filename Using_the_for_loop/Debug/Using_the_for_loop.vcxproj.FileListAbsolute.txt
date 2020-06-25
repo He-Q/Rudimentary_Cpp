@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\Using_the_for_loop\Debug\Using_the_for_loop.exe
+C:\DEv\Rudimentary_Cpp\Using_the_for_loop\Debug\Using_the_for_loop.pdb

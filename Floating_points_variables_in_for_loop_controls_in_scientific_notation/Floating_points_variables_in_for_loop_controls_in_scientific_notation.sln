@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Floating_points_variables_in_for_loop_controls_in_scientific_notation", "Floating_points_variables_in_for_loop_controls_in_scientific_notation.vcxproj", "{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Debug|x64.ActiveCfg = Debug|x64
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Debug|x64.Build.0 = Debug|x64
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Debug|x86.Build.0 = Debug|Win32
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Release|x64.ActiveCfg = Release|x64
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Release|x64.Build.0 = Release|x64
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Release|x86.ActiveCfg = Release|Win32
+		{663BB8C8-23F4-4E8B-9B4E-7FAEE04992F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13B2BE4E-A24D-43BD-A736-8CAD834DEBF7}
+	EndGlobalSection
+EndGlobal

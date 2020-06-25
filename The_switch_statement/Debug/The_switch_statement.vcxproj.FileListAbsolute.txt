@@ -1,0 +1,2 @@
+C:\DEv\Rudimentary_Cpp\The_switch_statement\Debug\The_switch_statement.exe
+C:\DEv\Rudimentary_Cpp\The_switch_statement\Debug\The_switch_statement.pdb
